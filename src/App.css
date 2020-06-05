@@ -1,0 +1,29 @@
+.fullBodyImages{
+  display:flex;
+  justify-content: center;
+  align-content: space-around;
+}
+
+@font-face {
+font-family: 'GLAMOURGIRL';
+font-style: normal;
+font-weight: normal;
+src: local('GLAMOURGIRL'), url(GLAMOURGIRL.TTF) format('truetype');
+}
+
+h1{
+	font-family: GLAMOURGIRL;
+	color: #0ccac4;
+	font-weight: 200;
+}
+
+.score{
+	background-color: rgba(0,128,128,1) 100%;
+	color: #0ccac4;
+	font-weight: 300;
+}
+
+.titles{
+	color: #0ccac4;
+	font-weight: 200;
+}
