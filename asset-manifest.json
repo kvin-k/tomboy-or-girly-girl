@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tomboy-or-girly-girl/static/css/main.45ac70bc.chunk.css",
+    "main.js": "/tomboy-or-girly-girl/static/js/main.3a53b3bb.chunk.js",
+    "main.js.map": "/tomboy-or-girly-girl/static/js/main.3a53b3bb.chunk.js.map",
+    "runtime-main.js": "/tomboy-or-girly-girl/static/js/runtime-main.68830fb5.js",
+    "runtime-main.js.map": "/tomboy-or-girly-girl/static/js/runtime-main.68830fb5.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/tomboy-or-girly-girl/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7e5790d1.chunk.js": "/tomboy-or-girly-girl/static/js/2.7e5790d1.chunk.js",
+    "static/js/2.7e5790d1.chunk.js.map": "/tomboy-or-girly-girl/static/js/2.7e5790d1.chunk.js.map",
+    "index.html": "/tomboy-or-girly-girl/index.html",
+    "precache-manifest.2dd7ec74cd9c9a4b6c58d527cfacbc3b.js": "/tomboy-or-girly-girl/precache-manifest.2dd7ec74cd9c9a4b6c58d527cfacbc3b.js",
+    "service-worker.js": "/tomboy-or-girly-girl/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/tomboy-or-girly-girl/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.45ac70bc.chunk.css.map": "/tomboy-or-girly-girl/static/css/main.45ac70bc.chunk.css.map",
+    "static/js/2.7e5790d1.chunk.js.LICENSE.txt": "/tomboy-or-girly-girl/static/js/2.7e5790d1.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/tomboy-or-girly-girl/static/media/GLAMOURGIRL.33302ac8.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68830fb5.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.7e5790d1.chunk.js",
+    "static/css/main.45ac70bc.chunk.css",
+    "static/js/main.3a53b3bb.chunk.js"
+  ]
+}
